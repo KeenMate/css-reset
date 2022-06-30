@@ -1,0 +1,6 @@
+.complete-reset,
+.complete-reset::after,
+.complete-reset::before,
+.complete-reset * {
+  all: initial;
+}
